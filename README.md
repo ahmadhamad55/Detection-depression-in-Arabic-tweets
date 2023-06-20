@@ -1,5 +1,8 @@
 # Detection-depression-in-Arabic-tweets
 
+<p align="center">
+  <img src="https://github.com/ahmadhamad55/Analyze-International-Debt-Statistics/blob/main/image.jpg"  width="400" height="300">
+</p>
 
 ### English version 
 Depression is a prevalent mental disorder in the Arab world, with a significant increase in reported cases. Factors such as traumatic experiences, lack of mental health awareness, excessive use of social media, and reduced physical activity contribute to the rising rates of depression. In order to address this issue, a deep learning model utilizing AraBERTv0.2-Twitter-base, a pre-trained transformer-based language model specifically trained on Arabic Twitter data, was developed. This model allows for the classification of Arabic tweets as either indicating depression tendencies or not. By leveraging the power of natural language processing and machine learning, this project aims to provide an effective tool for the early detection of depression and raise awareness about this serious mental health condition within the Arab community.
