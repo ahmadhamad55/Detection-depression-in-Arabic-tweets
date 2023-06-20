@@ -1,7 +1,7 @@
 # Detection-depression-in-Arabic-tweets
 
 <p align="center">
-  <img src="https://github.com/ahmadhamad55/Analyze-International-Debt-Statistics/blob/main/image.jpg"  width="400" height="300">
+  <img src="https://github.com/ahmadhamad55/Detection-depression-in-Arabic-tweets/blob/main/mentalhealth.jpg"  width="400" height="300">
 </p>
 
 ### English version 
